@@ -23,7 +23,8 @@ A responsive weather application that displays real-time weather data using a We
 
 ## 📸 Screenshots
 
-*(Add screenshots here for better presentation)*
+<img width="835" height="872" alt="image" src="https://github.com/user-attachments/assets/252748e1-f6d9-4b84-b249-1f77f53a58d9" />
+
 
 ---
 
